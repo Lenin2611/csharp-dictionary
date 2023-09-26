@@ -1,0 +1,15 @@
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\bin\Debug\net7.0\diccionarios.exe
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\bin\Debug\net7.0\diccionarios.deps.json
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\bin\Debug\net7.0\diccionarios.runtimeconfig.json
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\bin\Debug\net7.0\diccionarios.dll
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\bin\Debug\net7.0\diccionarios.pdb
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.csproj.AssemblyReference.cache
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.AssemblyInfoInputs.cache
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.AssemblyInfo.cs
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.dll
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\refint\diccionarios.dll
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.pdb
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\diccionarios.genruntimeconfig.cache
+C:\Users\lenin\OneDrive\Documentos\campus\csharp\diccionarios\obj\Debug\net7.0\ref\diccionarios.dll
